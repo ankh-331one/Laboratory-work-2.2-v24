@@ -1,5 +1,10 @@
-///Защита №2.2 v24
-// Найти ср.знач. полож. тангенс Х
+/*
+ * Защита 2.2
+ * Copyright (c) 2026 ankh-331one
+ *
+ * Licensed under the MIT License; see LICENSE file for details.
+ */
+/// Найти ср.знач. полож. тангенс Х
 
 #include <stdio.h>
 #include <locale.h>
